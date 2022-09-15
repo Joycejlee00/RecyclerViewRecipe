@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">RecyclerViewRecipe</string>
+<!--
+        **All Recipes + Descriptions are from -> @https://thefoodcharlatan.com/top-10-recipes-ever/ **
+ -->
+    <!--Top 10 recipe names -->
+    <string-array name="recipe_name">
+        <item>Cheesy Overnight Hash Brown Breakfast Casserole</item>
+        <item>Cilantro Lime Cucumber Salad</item>
+        <item>Easy Fall-Apart Pot Roast with Carrots</item>
+        <item>20-Minute Lemon Broccoli Pasta Skillet</item>
+        <item>My Mom’s Fudge</item>
+        <item>Skinny Oatmeal Chocolate Chip Cookies</item>
+        <item>Slow Cooker Basil Chicken in Coconut Curry Sauce</item>
+        <item>Beef Barley Soup</item>
+        <item>Roasted Sweet Potatoes and Brussels Sprouts</item>
+        <item>Cuban Mojo Marinated Pork</item>
+    </string-array>
+
+    <!-- Top 10 recipe descriptions -->
+    <string-array name="recipe_description">
+        <item>Crispy, buttery hash browns, topped with smoked ham, cheese, and perfectly spiced eggs. You are going to love this classic!
+
+</item>
+        <item>This recipe is perfect for anytime of year when you need a healthy side dish! It has a little kick to it, but nothing too crazy. We love this one!
+
+</item>
+        <item>Serve this the next time you have company and wow your guests! Who can resist a tender pot roast? Serve it with my Aunt Shirley’s Famous Creamy Mashed Potatoes!</item>
+        <item>That’s right my friends, 20 MINUTES. You just can’t beat weeknight recipes like this. Swap in whatever veggies you have on hand:</item>
+        <item>This recipe is a classic. Straight up, no fuss chocolate fudge. Never fails. The recipe is SO easy, you cannot mess it up. Check the reviews, this one is a fan favorite!
+
+</item>
+        <item>2 tablespoons of butter in the whole batch! What?? I promise, they’re great. Also check out these Skinny Texas Cowboy Cookies!</item>
+        <item>Crock pots for the win! I love how easy this curry is. There is also a stovetop version if you prefer. Eat it with this Homemade Naan! And this Coconut Jasmine Rice!</item>
+        <item>This recipe is from my mother-in-law Kris, who got it from her mom. Kris told me this a while ago after re-reading the post, “I read all the comments on this soup, and I have to say I got a little teary eyed thinking about how well received my mother’s delicious soup has been, and how many families now love it and consider it a favorite!"</item>
+        <item>You would not believe how easy and tasty this recipe is! Poor little Brussels sprouts often get a bad rap (I used to hate them) but that’s because people don’t know the secret about roasting. It takes them from “this smells like feet” to “Oh my goodness I’m going to eat this whole pan single handedly.”</item>
+        <item>A simple overnight marinade and an hour or two of roasting is all you need to get THAT CRUST. Make Cubanos (Cuban Sandwiches) with the leftovers.</item>
+    </string-array>
+
+    <!-- Full Recipe Instructions -->
+    <string-array name="full_recipe">
+        <item>(First) \n
+            Ingredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+        <item>(Second) \n
+            Ingredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+        <item>(Third) \n
+            Ingredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+        <item>(Fourth) \n
+            Ingredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+        <item>(Fifth) \n
+            Ingredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+        <item>(Sixth) \n
+            Ingredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+        <item>(Seventh) \n
+            Ingredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+        <item>(Eighth) \nIngredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+        <item>(Ninth) \n
+            Ingredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+        <item>(Tenth) \n
+            Ingredients: \n 3 very ripe bananas (medium/large) \n ½ cup unsalted butter (8 Tbsp) at room temperature \n 3/4 cup granulated sugar \n 2 large eggs, lightly beaten \n 1 ½ cups all-purpose flour \n 1 tsp baking soda \n ½ tsp salt \n ½ tsp vanilla extract \n
+        Procedure: \n
+            1. Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). \n
+            2. In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). \n
+            3. Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended \n
+            4. In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter \n
+            5. Add 1/2 tsp of vanilla extract. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.
+        </item>
+
+    </string-array>
+</resources>
